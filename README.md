@@ -56,6 +56,10 @@ The following NLP concepts are used in this project:
 
 ---
 
+## Output
+
+<img width="1373" height="68" alt="Image" src="https://github.com/user-attachments/assets/795371e0-29fe-44cc-b41e-e646328541c2" />
+
 ## How to Run the Project
 
 ### Install Dependencies
