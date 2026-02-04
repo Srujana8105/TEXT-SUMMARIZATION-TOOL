@@ -66,3 +66,7 @@ import nltk
 nltk.download('punkt')
 nltk.download('punkt_tab')
 nltk.download('stopwords')
+
+## Output
+
+<img width="1373" height="68" alt="Image" src="https://github.com/user-attachments/assets/795371e0-29fe-44cc-b41e-e646328541c2" />
